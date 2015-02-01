@@ -1,3 +1,3 @@
 This sample shows how to reference mongoose Schema in properties and array properties of another Schema.
 
-More details can be found [here](https://alexanderzeitler.com/articles/mongoose-referencing-schema-in-properties-and-arrays/)
+More details can be found here: https://alexanderzeitler.com/articles/mongoose-referencing-schema-in-properties-and-arrays
