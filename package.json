@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/AlexZeitler/mongoose-schema-reference-sample",
   "dependencies": {
-    "mongoose": "^5.7.5"
+    "mongoose": "^5.13.15"
   }
 }
